@@ -125,4 +125,6 @@ Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) 
 
 ## Step 8 - HW7_Part2
 Sample commit 2
+Sample commit 3
+
 
